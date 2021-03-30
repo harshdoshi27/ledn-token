@@ -1,16 +1,3 @@
-// import React from 'react'
-// //import { MDBDataTable } from 'mdbreact';
-
-// const CustomerDetails = () => {
-  
-//   return <h1>test111</h1>
-  
-// };
-
-// export default CustomerDetails;
-
-
-
 import React from 'react';
 import { MDBDataTable } from 'mdbreact';
 
